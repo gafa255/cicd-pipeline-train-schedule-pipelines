@@ -5,7 +5,7 @@
 			"stops": [
 				{
 					"station": "Sycamore",
-					"status": "OFF-TIME",
+					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
 				},
